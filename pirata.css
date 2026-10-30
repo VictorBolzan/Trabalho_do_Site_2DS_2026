@@ -234,7 +234,24 @@
 
 .botao {
 
-box-shadow: #D2B978;
+  width: 200px;
+  height: 100px;
+
+  /* Cor de fundo */
+  background-color: #f0f0f0;
+
+  /* Borda (grossura, tipo e cor) */
+  border: 2px solid #D2B978;
+
+  /* Espaçamento interno (entre o texto e a borda) */
+  padding: 16px;
+
+  /* Espaçamento externo (fora da caixa) */
+  margin: 20px;
+
+  /* Cantos arredondados (opcional) */
+  border-radius: 8px;
+}
 
 
 
