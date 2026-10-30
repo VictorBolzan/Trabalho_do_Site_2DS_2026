@@ -231,6 +231,15 @@
      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.9);
      max-width: 90%;
    }
+
+.botao {
+
+box-shadow: #D2B978;
+
+
+
+
+}
    
    /* Responsividade */
    @media (max-width: 900px) {
