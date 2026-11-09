@@ -234,22 +234,22 @@
 
 .botao {
 
-  width: 200px;
-  height: 100px;
+  width: 100px;
+  height: 50px;
 
-  /* Cor de fundo */
-  background-color: #f0f0f0;
 
-  /* Borda (grossura, tipo e cor) */
+  background-color: #e0ddd1;
+
+  
   border: 2px solid #D2B978;
 
-  /* Espaçamento interno (entre o texto e a borda) */
+ 
   padding: 16px;
 
-  /* Espaçamento externo (fora da caixa) */
+
   margin: 20px;
 
-  /* Cantos arredondados (opcional) */
+ 
   border-radius: 8px;
 }
 
